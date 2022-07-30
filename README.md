@@ -1,11 +1,20 @@
-
 # OSM Photos
 Note: This project is still in its conceptional stage. **There is no app that you can use yet.** I am looking forward to your feedback and ideas (see below). 
 
 ## What is OSM Photos
-OSM Photos is an app to make it easier to upload photos of buildings, monuments etc. to Wikimedia Commons and link them to the corresponding objects in the OpenStreetMap database.
+
+### A photo viewer
+OSM Photos is an app to view photos from Wikimedia Commons on a map. Instead of showing photos as pins or thumbnails at the location where the photo was taken, it marks the objects (e.g. buildings, monuments) that are shown on the photo. Technically speaking, the app marks all objects that have a `wikimedia_commons` tag in the OpenStreetMap database. When selecting the object, the photo is shown or, in case of a linked Commons category, a gallery of all photos of the object are shown.
+
+### A photo uploader
+The other purpose of the app is to make it easier to upload photos of buildings, monuments etc. to Wikimedia Commons and link them to the corresponding objects in the OpenStreetMap database.
 
 ### Why do I need a new app for that?
+
+#### Viewing photos of OSM objects
+At the moment the only OpenStreetMap app with the feature to show photos of objects (that I know of) is Osmand. But it only shows photos of objects that are Points of Interest, no photos for unnamed buildings, streets, trees etc. It is also not possible to filter objects to only show those that have an image.
+
+#### Uploading photos of OSM objects
 At the moment finding objects that need photos, take and upload them to Commons and link them to OSM is a complicated process with at least two apps involved:
 1. Use an OSM app, inspect the object to see if it already has an `wikimedia_commons` tag.
 2. If not, open Commons app, take a photo, add descriptions, find and add fitting categories, upload. 
