@@ -9,8 +9,6 @@ The main purpose of the app is to make it easier to upload photos of buildings, 
 ### A OSM photo viewer
 OSM Photos can also be used to view photos from Wikimedia Commons on a map. Instead of showing photos as pins or thumbnails at the location where the photos were taken, OSM photos highlights the object (e.g. building, monument) that is shown on the photo. This makes it easier to find for example all photos of a certain building without the need to look at all photos that were taken near the building to see if the building is the subject or not.
 
-Technically speaking, the app highlights all objects that have a `wikimedia_commons` tag in the OpenStreetMap database. When selecting the object, the photo is shown or, in case of a linked Commons category, a gallery of all photos of the object are shown.
-
 ### Why do I need a new app for that?
 
 #### Uploading photos of OSM objects
