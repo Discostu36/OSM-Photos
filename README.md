@@ -7,7 +7,7 @@ Note: This project is still in its conceptional stage. **There is no app that yo
 The main purpose of the app is to make it easier to upload photos of buildings, monuments etc. to [Wikimedia Commons](https://commons.m.wikimedia.org/) and link them to the corresponding objects in the [OpenStreetMap](https://github.com/openstreetmap) database, making them available for OSM apps as well as Wikimedia Projects and external users of Wikimedia Commons content. Contributing should be so easy that it can be realized while walking down a street. 
 
 ### A OSM photo viewer
-OSM Photos can also be used to view photos from Wikimedia Commons on a map. Instead of showing photos as pins or thumbnails at the location where the photos were taken, OSM photos highlights the object (e.g. building, monument) that is shown on the photo. This makes it easier to find for example all photos of a certain building without the need to look at all photos that were taken near the building to see if the building is the subject or not.
+OSM Photos can also be used to view photos from Wikimedia Commons on a map. Instead of showing photos as pins or thumbnails at the location where the photos were taken, OSM photos highlights the object (e.g. building, monument) that is shown on the photo. This makes it easier to find for example all photos of a certain building without the need to look at all photos that were taken near the building to see whether the building is the subject or not.
 
 ### Why do I need a new app for that?
 
@@ -25,7 +25,7 @@ With this the OSM Photos app, the workflow will be much more convenient:
 The app will automatically add fitting descriptions  and categories to the Commons page of the file. It will then add the `wikimedia_commons` tag to the OSM object and upload that change to the OSM database.
 
 #### Viewing photos of OSM objects
-At the moment the only OpenStreetMap app with the feature to show photos of specific objects (that I know of) is [Osmand](https://github.com/osmandapp/OsmAnd). But it only shows photos of objects that are Points of Interest, no photos for unnamed buildings, streets, trees etc. It is also not possible to filter the map to only show those objects that have an image.
+There are already apps for viewing photos of OpenStreetMap objects like [Osmand](https://github.com/osmandapp/OsmAnd) or [OsmAPP](https://osmapp.org). But with OSM Photos it will also be possible to see photos of additional kinds of objects, like unnamed buildings, streets, trees etc. Other apps also don't have an option to filter the map to only show those objects that have an image.
 
 ## How can I help?
 As this project is still in its conceptual stage, I need help in the following areas:
@@ -34,7 +34,7 @@ As this project is still in its conceptual stage, I need help in the following a
 I don't need pull requests yet, but if you have ideas how the app could best do what it should do, any help would be appreciated. Especially people familiar with Commons API and OSM API would be a big help.
 
 ### UX and features
-If you have ideas how the app should behave to be as helpful and easy to use as possible for Wikimedia and OSM contributers, please contribute your ideas. Feature requests are also welcome.
+If you have ideas how the app should behave to be as helpful and easy to use as possible for Wikimedia and OSM contributors, please contribute your ideas. Feature requests are also welcome.
 
 ### Design
-If you are a designer and have ideas how this app could be designed, I would be grateful for your ideas. The difficult task is that this app is intended for Wikimedia and OpenStreetMap contributers, so the app should, if possible, have a design where both of these user groups can feel at home.
+If you are a designer and have ideas how this app could be designed, I would be grateful for your ideas. The difficult task is that this app is intended for Wikimedia and OpenStreetMap contributors, so the app should, if possible, have a design where both of these user groups can feel at home.
