@@ -38,3 +38,19 @@ If you have ideas how the app should behave to be as helpful and easy to use as 
 
 ### Design
 If you are a designer and have ideas how this app could be designed, I would be grateful for your ideas. The difficult task is that this app is intended for Wikimedia and OpenStreetMap contributors, so the app should, if possible, have a design where both of these user groups can feel at home.
+
+## License
+Copyright (C) 2022 Michael Brandtner
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
