@@ -1,3 +1,5 @@
+**Due to the [ODbL making the core feature impossible](https://github.com/Discostu36/OSM-Photos/issues/30#issuecomment-1317282204), the development of this app never got off the ground.**
+
 # OSM Photos
 Note: This project is still in its conceptional stage. **There is no app that you can use yet.** I am looking forward to your feedback and ideas (see below). 
 
